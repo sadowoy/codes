@@ -6,6 +6,7 @@
        // b) Calcular a média desses valores.
        // c) Verificar quantos deles são maiores que a média."
 
+//para revisar o conteúdo, acabei utilizando o laço "swicth". 
 
 
 import javax.swing.*;
