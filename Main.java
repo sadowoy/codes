@@ -2,7 +2,7 @@ package Dados;
 
 import javax.swing.*;
 
-public class Main
+public class Metodos
 {
     public static void main(String[] args) {
         int entrada = 0;
